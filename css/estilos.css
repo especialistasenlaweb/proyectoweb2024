@@ -23,7 +23,7 @@ h1{
     transform:rotate(60deg);
     width:600px;
 }
-.mensaje{
+#mensaje{
     color:white;
     font-size:32px;
     text-align:center;
